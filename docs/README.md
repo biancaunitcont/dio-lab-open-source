@@ -124,16 +124,15 @@ No README do repositório, consta:
 
 ### Figma – Criação do Protótipo Simples de 2 páginas (Web ou Mobile)
 
-<a href="https://ibb.co/rK2HjPXN"><img src="https://i.ibb.co/KcxWPZ8S/Captura-de-tela-de-2026-08-15-13-21-37.png" alt="Captura-de-tela-de-2026-08-15-13-21-37" border="0"></a>
-<a href="https://ibb.co/QjqtbH3S"><img src="https://i.ibb.co/93fS84kK/Captura-de-tela-de-2026-08-15-13-24-13.png" alt="Captura-de-tela-de-2026-08-15-13-24-13" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RTNgCDQf/Captura-de-tela-de-2026-08-15-13-24-38.png" alt="Captura de tela de 2026 08 15 13 24 38" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/KjWPLjbh/Captura-de-tela-de-2026-08-15-13-24-48.png" alt="Captura de tela de 2026 08 15 13 24 48" border="0"></a>
-<a href="https://ibb.co/NgkrDXmM"><img src="https://i.ibb.co/0pWK4kFx/Captura-de-tela-de-2026-08-15-12-46-52.png" alt="Captura-de-tela-de-2026-08-15-12-46-52" border="0"></a>
-<a href="https://ibb.co/2YnZny85"><img src="https://i.ibb.co/cXgYg1bx/Captura-de-tela-de-2026-08-15-12-46-36.png" alt="Captura-de-tela-de-2026-08-15-12-46-36" border="0"></a>
-<a href="https://ibb.co/LhH0gh8B"><img src="https://i.ibb.co/zHDm2HrC/Captura-de-tela-de-2026-08-15-12-46-19.png" alt="Captura-de-tela-de-2026-08-15-12-46-19" border="0"></a>
-<a href="https://ibb.co/JWT0MbTX"><img src="https://i.ibb.co/7xD86TD7/Captura-de-tela-de-2026-08-15-12-46-13.png" alt="Captura-de-tela-de-2026-08-15-12-46-13" border="0"></a>
-<a href="https://ibb.co/nWnCPXT"><img src="https://i.ibb.co/1Sd6zC3/Captura-de-tela-de-2026-08-15-12-46-05.png" alt="Captura-de-tela-de-2026-08-15-12-46-05" border="0"></a>
-<a href="https://ibb.co/506qrNj"><img src="https://i.ibb.co/V1tXg7C/Captura-de-tela-de-2026-08-15-12-45-55.png" alt="Captura-de-tela-de-2026-08-15-12-45-55" border="0"></a>
+<a href="https://ibb.co/nqGWt7Df"><img src="https://i.ibb.co/HLSJ3trY/Captura-de-tela-de-2026-08-16-11-51-38.png" alt="Captura-de-tela-de-2026-08-16-11-51-38" border="0"></a>
+<a href="https://ibb.co/ymYwfZLQ"><img src="https://i.ibb.co/MyGY2tqC/Captura-de-tela-de-2026-08-16-11-51-29.png" alt="Captura-de-tela-de-2026-08-16-11-51-29" border="0"></a>
+<a href="https://ibb.co/jZbfDfch"><img src="https://i.ibb.co/1J7QTQDZ/Captura-de-tela-de-2026-08-16-11-51-25.png" alt="Captura-de-tela-de-2026-08-16-11-51-25" border="0"></a>
+<a href="https://ibb.co/3yH4xg96"><img src="https://i.ibb.co/1fx7CFty/Captura-de-tela-de-2026-08-16-11-50-57.png" alt="Captura-de-tela-de-2026-08-16-11-50-57" border="0"></a>
+<a href="https://ibb.co/MDT9TTFp"><img src="https://i.ibb.co/5WD2DDbv/Captura-de-tela-de-2026-08-16-11-50-52.png" alt="Captura-de-tela-de-2026-08-16-11-50-52" border="0"></a>
+<a href="https://ibb.co/fdjBkZFK"><img src="https://i.ibb.co/HT51tR4M/Captura-de-tela-de-2026-08-16-11-50-47.png" alt="Captura-de-tela-de-2026-08-16-11-50-47" border="0"></a>
+<a href="https://ibb.co/xqTxx8NS"><img src="https://i.ibb.co/N2BccnM6/Captura-de-tela-de-2026-08-16-11-50-28.png" alt="Captura-de-tela-de-2026-08-16-11-50-28" border="0"></a>
+<a href="https://ibb.co/XkMP4P0r"><img src="https://i.ibb.co/Vp5GNGnc/Captura-de-tela-de-2026-08-16-11-50-13.png" alt="Captura-de-tela-de-2026-08-16-11-50-13" border="0"></a>
+<a href="https://ibb.co/FkpMcgML"><img src="https://i.ibb.co/TDySJmSx/Captura-de-tela-de-2026-08-16-11-49-46.png" alt="Captura de tela de 2026 08 16 11 49 46" border="0"></a>
 
 Figma- *Plataforma usada para transformar a ideia na criação do site.*
 
